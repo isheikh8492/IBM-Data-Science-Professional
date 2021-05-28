@@ -21,3 +21,7 @@ The program consists of 9 online courses that will provide you with the **latest
 ## Repository Significance
 
 This repository contains **all** capstone projects that were assigned throughout the certification.
+
+### Python Project for Data Science
+
+For this project, I was to assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. The job was to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I would visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, and GameStop.
