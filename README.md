@@ -20,4 +20,8 @@ This repository contains **all** capstone projects that were assigned throughout
 
 ### Python Project for Data Science
 
-For this project, I was to assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. The job was to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I would visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, and GameStop.
+This course involved completiing a project where I was to assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. The job was to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I would visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, and GameStop.
+
+### Databases and SQL for Data Science with Python
+
+This course involved working on a real world dataset provided by the Chicago Data Portal. I has to assume that I was hired by a non-profit organization that strives to improve educational outcomes for children and youth in the City of Chicago. My job was to analyze the census, crime, and school data for a given neighborhood or district. I also had to identify causes that impact the enrollment, safety, health, environment ratings of schools.
